@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media3.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="50">
 
 <!--
 **yesmishgan/yesmishgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
